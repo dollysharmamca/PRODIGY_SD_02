@@ -14,6 +14,7 @@ class tempConverter{
     return K;
   }
   
+  
   // Method to convert Fahrenheit to Celcius
   static double F_C(double F){
     double C = (F - 32) * 5/9;
