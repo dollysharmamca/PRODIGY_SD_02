@@ -3,7 +3,7 @@ import java.util.*;
 class tempConverter{
   static Scanner sc = new Scanner(System.in); // Scanner Class
   
-  // Method to convert Celcius to Fahrenheit
+  // Method to convert Celcius to Fahrenheit 
   static double C_F(double C){
     double F = (C * 9/5) + 32;
     return F;
